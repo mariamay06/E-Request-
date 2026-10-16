@@ -179,7 +179,6 @@ A proposed feature for monitoring submitted request progress when tracking funct
 
 </div>
 
-<sub>*Digital submission and tracking depend on future implementation.</sub>
 
 ---
 
@@ -194,7 +193,6 @@ A proposed feature for monitoring submitted request progress when tracking funct
 
 </div>
 
-The final technology stack will depend on the implemented version of E-Request.
 
 - UI/UX design and prototyping
 - Figma
