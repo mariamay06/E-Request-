@@ -1,178 +1,257 @@
-# E-Request-
-second project
 
-# 🎓 E-Request – Student Service Guide Application
+<div align="center">
 
-### Student Services and Information Management Application
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FCE7F3&height=180&section=header&text=E-Request&fontSize=48&fontColor=9D174D&animation=fadeIn&fontAlignY=45&desc=Your%20Campus%2C%20Made%20Simpler%20%E2%99%A1&descSize=16&descAlignY=70" width="100%" alt="E-Request soft pink header"/>
 
----
+<br/>
 
-## 📌 Project Overview
+**A Student Service Guide Application**
 
-**E-Request** is a student-focused application concept designed to help students easily access information about school services, requirements, and administrative procedures in one convenient platform.
+Helping students find school services, requirements, and procedures in one convenient place.
 
-The application aims to simplify the process of finding school-related information by organizing essential student services, step-by-step instructions, required documents, and request procedures in one accessible location.
+<br/>
 
-E-Request is designed to improve student convenience, reduce confusion regarding school processes, and provide a more organized way to navigate campus services.
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-FCE7F3?style=flat-square&labelColor=FCE7F3&color=F4A7C3" alt="About"/></a>
+<a href="#features"><img src="https://img.shields.io/badge/FEATURES-FCE7F3?style=flat-square&labelColor=FCE7F3&color=F4A7C3" alt="Features"/></a>
+<a href="#screenshots"><img src="https://img.shields.io/badge/PREVIEW-FCE7F3?style=flat-square&labelColor=FCE7F3&color=F4A7C3" alt="Preview"/></a>
+<a href="#future-plans"><img src="https://img.shields.io/badge/FUTURE%20PLANS-FCE7F3?style=flat-square&labelColor=FCE7F3&color=F4A7C3" alt="Future plans"/></a>
 
----
+<br/>
 
-## 🎯 Project Objectives
+![Project](https://img.shields.io/badge/Project-E--Request-D77FA1?style=for-the-badge)
+![Category](https://img.shields.io/badge/Category-Education-E88DB5?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concept-9D174D?style=for-the-badge)
 
-- To provide students with centralized information about school services.
-- To help students identify the requirements for different school transactions.
-- To present clear, step-by-step procedures for common student requests.
-- To reduce the time spent searching for school-related information.
-- To improve student awareness of available administrative services.
-- To promote a more convenient and organized student service experience.
-- To provide a foundation for future digital request and tracking features.
+</div>
 
 ---
 
-## ⚙️ Key Features
+<a id="about"></a>
 
-### 📚 1. School Services Directory
+## ♡ 01 — About the Project
 
-Provides an organized list of school offices and student services, such as the registrar, admissions office, cashier, library, and student affairs office.
+**E-Request** is a student-focused application concept designed to make school services and administrative information easier to access.
 
-### 📋 2. Requirements Guide
+It brings together school office directories, document requirements, step-by-step procedures, and frequently asked questions in one organized platform.
 
-Displays the documents and other requirements students may need for common school transactions.
+The goal is to help students understand school processes, prepare the necessary documents, and navigate campus services with greater convenience.
 
-### 📝 3. Step-by-Step Procedures
+> *Less confusion, easier access, better student experience.* 🎀
 
-Provides clear instructions to help students understand how to complete school-related processes.
+---
 
-### 🔎 4. Search and Browse
+## ♡ 02 — Project Goals
 
-Allows students to find services, requirements, and procedures more conveniently.
+| Goal | Description |
+|---|---|
+| 🎓 Centralized Information | Organize school services in one place. |
+| 📋 Clear Requirements | Help students identify necessary documents. |
+| 📝 Easy Procedures | Present instructions step by step. |
+| 🔎 Quick Search | Make school information easier to find. |
+| 💗 Student Convenience | Create a more organized service experience. |
+| 📬 Digital Requests | Provide a foundation for future online requests. |
 
-### 📌 5. Frequently Asked Questions
+---
+
+<a id="screenshots"></a>
+
+## ♡ 03 — Application Preview
+
+<div align="center">
+
+<!-- Upload your actual app screenshot to the screenshots folder.
+     Suggested filename: home.png -->
+
+<img src="screenshots/home.png" width="230" alt="E-Request home screen"/>
+
+**HOME DASHBOARD**
+
+*An overview of student services and useful information.*
+
+</div>
+
+<div align="center">
+
+| 📚 Services | 📋 Requirements | 📝 Procedures |
+|:---:|:---:|:---:|
+| Browse school offices | Review required documents | Follow clear instructions |
+
+</div>
+
+> Replace the sample screenshot path with the actual location of your uploaded application screenshot.
+
+---
+
+<a id="features"></a>
+
+## ♡ 04 — Features
+
+<details>
+<summary>📚 School Services Directory</summary>
+
+Provides an organized list of school offices and available student services, such as the registrar, admissions office, cashier, library, and student affairs office.
+
+</details>
+
+<details>
+<summary>📋 Requirements Guide</summary>
+
+Helps students understand the documents required for common school transactions.
+
+</details>
+
+<details>
+<summary>📝 Step-by-Step Procedures</summary>
+
+Presents instructions to guide students through school-related processes.
+
+</details>
+
+<details>
+<summary>🔎 Search and Browse</summary>
+
+Helps users find specific services, requirements, and procedures.
+
+</details>
+
+<details>
+<summary>💌 Frequently Asked Questions</summary>
 
 Provides answers to common questions about school services and administrative processes.
 
-### 📱 6. Student-Friendly Interface
+</details>
 
-Offers a simple and organized interface designed to make school information easier to understand and access.
+<details>
+<summary>📬 Digital Request Concept</summary>
 
-### 📬 7. Digital Request Concept
+Provides a foundation for online request forms, subject to the school's policies and the actual implementation.
 
-Can be expanded to support online request forms for selected school documents and services, subject to the school's actual policies and approval.
+</details>
 
-### 🔔 8. Request Status Tracking
+<details>
+<summary>🔔 Request Tracking Concept</summary>
 
-A future feature that could allow students to monitor the progress of submitted requests.
+A proposed feature for monitoring submitted request progress when tracking functionality becomes available.
+
+</details>
 
 ---
 
-## 🛠️ Main Application Modules
+## ♡ 05 — Application Modules
 
-| Module | Description |
+| Module | Purpose |
 |---|---|
-| Home Dashboard | Provides an overview of available student services |
-| Services Directory | Lists school offices and their services |
-| Requirements Guide | Shows required documents for different transactions |
-| Procedure Guide | Explains processes step by step |
-| Search Function | Helps users find information quickly |
-| FAQ Section | Answers frequently asked questions |
-| Request Form | Concept for submitting selected service requests |
-| Request Tracking | Concept for monitoring request status |
-| Contact Information | Displays school office contact details |
+| 🏠 Home Dashboard | Overview of available services |
+| 🏢 Services Directory | School offices and their services |
+| 📋 Requirements Guide | Required documents |
+| 📝 Procedure Guide | Step-by-step instructions |
+| 🔎 Search Function | Quick information retrieval |
+| 💬 FAQ Section | Common questions and answers |
+| 📬 Request Form | Proposed digital request submission |
+| 📊 Request Tracking | Proposed request status monitoring |
+| ☎️ Contact Information | Office contact details and schedules |
 
 ---
 
-## 👥 Target Users
+## ♡ 06 — Target Users
 
-- College Students
-- Senior High School Students
-- Newly Enrolled Students
-- Transferees
-- Students requesting school documents
-- Students seeking information about campus services
-
----
-
-## 🌟 Significance of the Project
-
-E-Request aims to make school services more accessible by providing students with a centralized source of information.
-
-Instead of visiting multiple offices just to ask about requirements or procedures, students can use the application to review available information before beginning a transaction.
-
-The project may help improve student awareness, reduce repetitive inquiries, and encourage a more organized approach to accessing school services.
+- 🎓 College students
+- 📚 Senior high school students
+- 🌷 Newly enrolled students
+- 📝 Transferees
+- 📄 Students requesting school documents
+- 🏫 Students looking for campus service information
 
 ---
 
-## 🔄 Proposed Application Workflow
+## ♡ 07 — How It Works
 
-1. **Open the Application** – The student opens the E-Request application.
-2. **Browse Services** – The student views the available school services.
-3. **Search for Information** – The student selects a service or searches for a specific requirement.
-4. **Review Requirements** – The application displays the required documents and eligibility information.
-5. **Follow Procedures** – The student reviews the instructions for completing the transaction.
-6. **Prepare Documents** – The student prepares the necessary requirements.
-7. **Submit a Request** – If digital requests are supported, the student completes the appropriate form.
-8. **Check Request Status** – If tracking is implemented, the student checks the request's progress.
+<div align="center">
 
----
+`OPEN APP` → `BROWSE SERVICES` → `CHECK REQUIREMENTS`
 
-## 💻 Proposed Technologies
+⬇
 
-The technologies will depend on the final implementation of the application.
+`REVIEW PROCEDURES` → `PREPARE DOCUMENTS`
 
-- User Interface Design
-- Web or Mobile Application Development
-- Database Management
-- Search and Information Retrieval
-- Digital Forms
-- Authentication and Access Control, if required
+⬇
+
+`SUBMIT REQUEST*` → `TRACK STATUS*`
+
+</div>
+
+<sub>*Digital submission and tracking depend on future implementation.</sub>
 
 ---
 
-## 🚀 Future Enhancements
+## ♡ 08 — Proposed Technologies
 
-- [ ] Student Account Registration and Login
-- [ ] Personalized Student Dashboard
-- [ ] Online Document Request Submission
-- [ ] Request Status Notifications
-- [ ] Downloadable Forms and Checklists
-- [ ] Office Schedules and Contact Information
-- [ ] Frequently Asked Questions
-- [ ] Mobile Application Version
-- [ ] Administrative Dashboard for School Personnel
-- [ ] Database Integration
-- [ ] Email Notifications
-- [ ] Accessibility and Language Options
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-Design-E88DB5?style=flat-square&logo=figma&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile-App-D77FA1?style=flat-square&logo=android&logoColor=white)
+![Database](https://img.shields.io/badge/Database-Integration-F4A7C3?style=flat-square)
+![UIUX](https://img.shields.io/badge/UI%2FUX-Design-9D174D?style=flat-square)
+
+</div>
+
+The final technology stack will depend on the implemented version of E-Request.
+
+- UI/UX design and prototyping
+- Figma
+- Android application development
+- Database management
+- Search and information retrieval
+- Digital forms and access control, if implemented
 
 ---
 
-## 🔐 Privacy and Security
+<a id="future-plans"></a>
+
+## ♡ 09 — Future Plans
+
+- [ ] Student account registration and login
+- [ ] Personalized student dashboard
+- [ ] Online document request submission
+- [ ] Request status notifications
+- [ ] Downloadable forms and checklists
+- [ ] Office schedules and contact information
+- [ ] Database integration
+- [ ] Administrative dashboard
+- [ ] Email notifications
+- [ ] Accessibility and language options
+
+---
+
+## ♡ 10 — Privacy & Security
 
 If digital request submission is implemented, E-Request should protect student information through appropriate access controls, secure data handling, and clear privacy policies.
 
-Only authorized personnel should be able to access confidential student records and administrative request information.
+Confidential student records should only be accessible to authorized personnel.
 
 ---
 
-## 📌 Project Status
+## ♡ 11 — Project Details
 
-**Development Stage:** Application Concept / Proposed System
-
-E-Request is currently presented as a student service guide application concept. Features such as online request submission, account management, database integration, and request tracking will depend on the actual implementation.
+| Item | Information |
+|---|---|
+| Project Name | E-Request |
+| Application Title | Student Service Guide Application |
+| Project Type | Student Services and Information Management |
+| Intended Platform | Mobile Application |
+| Development Stage | Application Concept / Proposed System |
+| Primary Purpose | Centralized school services and information |
 
 ---
 
-## 📁 Project Category
+<div align="center">
 
-**Education Technology | Student Services | Information Management | Digital Service Guide**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FCE7F3&height=3&section=footer" width="100%" alt="Pink divider"/>
 
----
+### 🌸 Made for a Better Student Experience ♡
 
-## 👨‍💻 Project Information
+*Organized information. Easier access. Student-centered design.*
 
-**Project Name:** E-Request
+<sub>Thank you for visiting the E-Request repository.</sub>
 
-**Application Title:** Student Service Guide Application
-
-**Project Type:** Student Information and Service Guide
-
-**Primary Purpose:** To help students find school services, requirements, and procedures in one convenient platform.
+</div>
