@@ -59,10 +59,9 @@ The goal is to help students understand school processes, prepare the necessary 
 
 <div align="center">
 
-<!-- Upload your actual app screenshot to the screenshots folder.
-     Suggested filename: home.png -->
 
-<img src="screenshots/home.png" width="230" alt="E-Request home screen"/>
+
+
 
 **HOME DASHBOARD**
 
@@ -78,7 +77,7 @@ The goal is to help students understand school processes, prepare the necessary 
 
 </div>
 
-> Replace the sample screenshot path with the actual location of your uploaded application screenshot.
+
 
 ---
 
